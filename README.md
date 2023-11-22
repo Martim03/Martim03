@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martim Mendes</h1>
 <h3 align="center">A passionate programmer from Portugal that is always trying to learn new things!</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/dc/37/94/dc3794511852f2f5137dfdc10b04e6b6.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/dc/37/94/dc3794511852f2f5137dfdc10b04e6b6.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martim03" alt="martim03" /></a> </p>
 
