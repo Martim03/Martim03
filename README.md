@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/Martim03)
 <h1 align="center">Hi 👋, I'm Martim Mendes</h1>
 <h3 align="center">A passionate programmer from Portugal that is always trying to learn new things!</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🔭 I’m currently working on [Pulsify](https://github.com/Martim03/Pulsify)
 
@@ -51,8 +50,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martim03&show_icons=true&locale=en" alt="martim03" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martim03&" alt="martim03" /></p>
